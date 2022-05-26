@@ -147,3 +147,4 @@ that the pull request is raised from my Github ID listed against my name in **ta
 | Name (“You”) | Github ID | Employer | Country | Date |
 | --- | --- | --- | --- | --- |
 | `Mathew Dennis` | [mathewdennis1](https://github.com/mathewdennis1) | Core.ai Scientific Technologies Private Ltd. |India |14-June-2021|
+| `Phoenix Code Bot` | [Phoenix Code Bot](https://github.com/phoenixide) | Excemted ci tool account. |India |26-may-2021|
