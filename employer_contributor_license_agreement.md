@@ -148,4 +148,5 @@ that the pull request is raised from my Github ID listed against my name in **ta
 | --- | --- | --- | --- | --- |
 | `Mathew Dennis` | [mathewdennis1](https://github.com/mathewdennis1) | Core.ai Scientific Technologies Private Ltd. |India |14-June-2021|
 | `Phoenix Code Bot` | [Phoenix Code Bot](https://github.com/phoenixide) | Excemted ci tool account. |India |26-may-2021|
-| `renovate[bot]` | [renovate[bot]](https://github.com/renovatebot) | Rennovate ci tool account. |India |18-Jun-2022|
+| `Core.ai bot` | [Core.ai bot](https://github.com/core-ai-bot) | Excempted ci tool account. |India |26-may-2021|
+| `rennovate bot` | [renovate[bot]](https://github.com/renovatebot) | Excempted ci tool account. |India |29-June-2021|
