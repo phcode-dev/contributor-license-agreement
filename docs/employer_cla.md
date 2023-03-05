@@ -11,8 +11,8 @@ designated employees to phcode.dev, and grant copyright and patent licenses.
 
 Please read this document carefully before signing and keep a copy for your records.
 
-This CLA is agreed to by the party signing below ("You" or "Your"), and conveys certain license rights to phcode.dev for
-Your contributions to open source projects.
+This CLA is agreed to by the party signing below ("You" or "Your"), and conveys certain license rights to phcode.dev
+(owned by legal entity CORE.AI SCIENTIFIC TECHNOLOGIES PRIVATE LIMITED) for Your contributions to open source projects.
 
 This CLA is effective as of the latest signature date below.
 
