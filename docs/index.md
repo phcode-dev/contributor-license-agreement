@@ -1,6 +1,6 @@
 # phcode.dev Contributor License Agreement(CLA)
 
-Thank you for contributing  to our community. Phcode.dev is maintained by [core.ai](https://core.ai) open research. We welcome you to sign the contributor license agreement. The CLA can be signed in **either** personal capacity or on behalf of your employer. Please choose an appropriate agreement to sign(you can only sign one).
+Thank you for contributing  to our community. Phcode.dev is maintained by [core.ai](https://core.ai). We welcome you to sign the contributor license agreement. The CLA can be signed in **either** personal capacity or on behalf of your employer. Please choose an appropriate agreement to sign(you can only sign one).
 ## How do I sign the CLA in personal capacity?
 
 I am contributing on my own personal capacity and not making Submissions in the course of work for my employer.
