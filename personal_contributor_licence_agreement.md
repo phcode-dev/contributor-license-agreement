@@ -158,4 +158,4 @@ that the pull request is raised from my Github ID listed against my name in **ta
 | `Patricia Heimfarth`| [PatriciaHeimfarth](https://github.com/PatriciaHeimfarth) |07-March-2023|
 | `Hami Berkay Aktaş`| [hberkayaktas](https://github.com/hberkayaktas) |01-August-2023|
 | `Andrew Young` | [ayoung5555](https://github.com/ayoung5555) | 25-April-2024|
-| `Christyan Brayan` | [christyanbrayan](https://github.com/christyanbrayan) | 29-May-2024|
+| `Pluto` | [devvaannsh](https://github.com/devvaannsh) | 13-August-2024|
